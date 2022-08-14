@@ -7,7 +7,7 @@
 
 ### Time taken to build this: 2hrs
 
-### [Live Link]()
+### [Live Link](https://01-02-restaurant-homepage.netlify.app/)
 
 ### QuickLook
 ![img](./quicklook.png)
