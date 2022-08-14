@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Red Rose", cursive;
+}
+
+body{
+  background-image: linear-gradient(90deg,rgba(30, 30, 70, 0.724),rgba(25, 25, 70, 0.725)),
+  url(./assets/pexels.png);
+  position: relative;
+  
+}
+
+/* ------------------------------ */
+/* ---------- NAVBAR ------------ */
+/* ------------------------------ */
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  
+}
+.list{
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+.list-item{
+  margin: 70px 40px;
+  color: #bed01d;
+  font-size: 20px;
+}
+
+.logo{
+  margin-left: 46px;
+  margin-top: 46px;
+  
+}
+.button-small{
+  font-size: 24px;
+  padding: 5px 20px;
+  background-color: #cf7859;
+  border-color: transparent;
+  border-radius: 2px;
+  color: #ffffff;
+  margin-top: 42px;
+  margin-right:84px;
+}
+/* ------------------------------ */
+/* ---------- HERO ------------ */
+/* ------------------------------ */
+.hero{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-heading{
+  font-size: 90px;
+  font-weight:700 ;
+  text-align: center;
+  color: #cee214; 
+  line-height: 100px;
+}
+.button-large{
+  font-size: 20px;
+  background: #cf7859;
+  color: #ffffff;
+  border-color: transparent;
+  padding:5px 25px;
+  border-radius: 4px;
+  margin-top: 20px;  
+}
+.blogo{
+  width:100px;
+}
+.bottom{
+
+  position: absolute;
+  right: 84px;
+  margin-top: 390px;
+}
+
+
